@@ -54,9 +54,9 @@ exports.getItem = async(req, res)=>{
 
 exports.PostNewItem = async (req, res) =>{
     try{
-         const {name , description , image_url,location,feature, user_id} = req.body ;
-
-         const postedItem = Item.create({name , description, image_url,location,feature, user_id});
+         const {name , description , image_url,location,feature, user_id,link} = req.body ;
+         console.log(link)
+         const postedItem = await Item.create({name , description, image_url,location,feature, user_id,link});
 
          return res.status(200).json({
             success:true , 

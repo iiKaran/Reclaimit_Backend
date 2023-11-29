@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0b8"
+  },
+  "name": "Lost Phone",
+  "description": "A black iPhone 12 with a cracked screen was left behind at the cozy corner table of the local coffee shop on Main Street. The Face ID feature is not working properly. The incident occurred on November 15, 2023. Here is an image of the lost phone: [Lost Phone](https://example.com/lost_phone_image.jpg)",
+  "location": "Coffee shop on Main Street",
+  "date": "2023-11-15",
+  "feature": "Face ID not working",
+  "image_url": "https://example.com/lost_phone_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0b9"
+  },
+  "name": "Missing Diary",
+  "description": "A leather-bound journal with gold trim, filled with personal thoughts and memories, was left on a bench in City Park. The journal has an elegant touch with embossed initials 'A.B.' on the cover. It was lost on November 10, 2023. Here is an image of the missing diary: [Missing Diary](https://example.com/missing_diary_image.jpg)",
+  "location": "City Park bench",
+  "date": "2023-11-10",
+  "feature": "Embossed initials 'A.B.' on cover",
+  "image_url": "https://example.com/missing_diary_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0ba"
+  },
+  "name": "Earpods Charger",
+  "description": "A white charging cable for Apple Earpods was forgotten in the gym locker room. The connector is slightly bent. The incident happened on November 18, 2023. Here is an image of the Earpods charger: [Earpods Charger](https://example.com/earpods_charger_image.jpg)",
+  "location": "Gym locker room",
+  "date": "2023-11-18",
+  "feature": "Bent connector",
+  "image_url": "https://example.com/earpods_charger_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0bb"
+  },
+  "name": "Lost Wallet",
+  "description": "A brown leather wallet containing important ID cards and credit cards was lost at the bus stop near Oak Street. A reward is offered for its return. The incident occurred on November 12, 2023. Here is an image of the lost wallet: [Lost Wallet](https://example.com/lost_wallet_image.jpg)",
+  "location": "Bus stop near Oak Street",
+  "date": "2023-11-12",
+  "feature": "Reward offered",
+  "image_url": "https://example.com/lost_wallet_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0bc"
+  },
+  "name": "Misplaced Sunglasses",
+  "description": "Aviator-style sunglasses with mirrored lenses were left behind at a beachside cafe. The left lens is scratched. The incident took place on November 20, 2023. Here is an image of the misplaced sunglasses: [Misplaced Sunglasses](https://example.com/sunglasses_image.jpg)",
+  "location": "Beachside cafe",
+  "date": "2023-11-20",
+  "feature": "Scratched left lens",
+  "image_url": "https://example.com/sunglasses_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0bd"
+  },
+  "name": "Forgotten Laptop",
+  "description": "A silver MacBook Air, snugly placed in a black sleeve, was forgotten at the airport security checkpoint. The top cover has a sticker. The incident occurred on November 17, 2023. Here is an image of the forgotten laptop: [Forgotten Laptop](https://example.com/lost_laptop_image.jpg)",
+  "location": "Airport security checkpoint",
+  "date": "2023-11-17",
+  "feature": "Sticker on the top cover",
+  "image_url": "https://example.com/lost_laptop_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0be"
+  },
+  "name": "Lost Umbrella",
+  "description": "A compact black umbrella with a red handle was left behind on a train station platform. The auto-open button is broken. The incident happened on November 14, 2023. Here is an image of the lost umbrella: [Lost Umbrella](https://example.com/lost_umbrella_image.jpg)",
+  "location": "Train station platform",
+  "date": "2023-11-14",
+  "feature": "Auto-open button broken",
+  "image_url": "https://example.com/lost_umbrella_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0bf"
+  },
+  "name": "Misplaced Keys",
+  "description": "A bunch of keys with a distinctive teddy bear keychain was misplaced in a shopping mall parking lot. The keys were lost on November 16, 2023. Here is an image of the misplaced keys: [Misplaced Keys](https://example.com/lost_keys_image.jpg)",
+  "location": "Shopping mall parking lot",
+  "date": "2023-11-16",
+  "feature": "Distinctive keychain with a teddy bear",
+  "image_url": "https://example.com/lost_keys_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0c0"
+  },
+  "name": "Lost Backpack",
+  "description": "A blue backpack with a dedicated laptop compartment was left behind in the public library study area. The backpack has two water bottle holders and was lost on November 11, 2023. Here is an image of the lost backpack: [Lost Backpack](https://example.com/lost_backpack_image.jpg)",
+  "location": "Public library study area",
+  "date": "2023-11-11",
+  "feature": "Two water bottle holders",
+  "image_url": "https://example.com/lost_backpack_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0c1"
+  },
+  "name": "Missing Watch",
+  "description": "A silver wristwatch with a black leather band, engraved with the initials 'M.J.', was lost at a restaurant on Pine Street. The incident occurred on November 19, 2023. Here is an image of the missing watch: [Missing Watch](https://example.com/missing_watch_image.jpg)",
+  "location": "Restaurant on Pine Street",
+  "date": "2023-11-19",
+  "feature": "Engraved with the initials 'M.J.'",
+  "image_url": "https://example.com/missing_watch_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0c2"
+  },
+  "name": "Forgotten Gloves",
+  "description": "A pair of black leather gloves with touchscreen tips was left behind in a taxi's backseat. The gloves have a brand logo on the wrist and were forgotten on November 13, 2023. Here is an image of the forgotten gloves: [Forgotten Gloves](https://example.com/forgotten_gloves_image.jpg)",
+  "location": "Taxi backseat",
+  "date": "2023-11-13",
+  "feature": "Brand logo on the wrist",
+  "image_url": "https://example.com/forgotten_gloves_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0c3"
+  },
+  "name": "Lost Camera",
+  "description": "A compact digital camera with a red case was lost in the parking lot of a hiking trail. The camera has a partially cracked LCD screen. The incident occurred on November 15, 2023. Here is an image of the lost camera: [Lost Camera](https://example.com/lost_camera_image.jpg)",
+  "location": "Hiking trail parking lot",
+  "date": "2023-11-15",
+  "feature": "Partially cracked LCD screen",
+  "image_url": "https://example.com/lost_camera_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0c4"
+  },
+  "name": "Misplaced Scarf",
+  "description": "A hand-knit scarf in shades of blue and gray, with a zigzag pattern, was left on a bus seat. The scarf has sentimental value and was misplaced on November 10, 2023. Here is an image of the misplaced scarf: [Misplaced Scarf](https://example.com/misplaced_scarf_image.jpg)",
+  "location": "Bus seat",
+  "date": "2023-11-10",
+  "feature": "Hand-knit with a zigzag pattern",
+  "image_url": "https://example.com/misplaced_scarf_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0c5"
+  },
+  "name": "Lost Water Bottle",
+  "description": "A stainless steel water bottle with a floral print was lost in the fitness center locker room. The water bottle has a dent on the bottom and was lost on November 18, 2023. Here is an image of the lost water bottle: [Lost Water Bottle](https://example.com/lost_water_bottle_image.jpg)",
+  "location": "Fitness center locker room",
+  "date": "2023-11-18",
+  "feature": "Dent on the bottom",
+  "image_url": "https://example.com/lost_water_bottle_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0c6"
+  },
+  "name": "Missing Passport",
+  "description": "A blue passport with travel stamps was left in the hotel lobby. The passport includes a visa for multiple countries and was misplaced on November 12, 2023. Here is an image of the missing passport: [Missing Passport](https://example.com/missing_passport_image.jpg)",
+  "location": "Hotel lobby",
+  "date": "2023-11-12",
+  "feature": "Visa for multiple countries",
+  "image_url": "https://example.com/missing_passport_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0c7"
+  },
+  "name": "Earpods Case",
+  "description": "A white Earpods Pro case with a scratched surface was left behind at a coffee shop on Elm Street. The incident occurred on November 20, 2023. Here is an image of the Earpods case: [Earpods Case](https://example.com/earpods_case_image.jpg)",
+  "location": "Coffee shop on Elm Street",
+  "date": "2023-11-20",
+  "feature": "Scratched surface",
+  "image_url": "https://example.com/earpods_case_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0c8"
+  },
+  "name": "Lost Book",
+  "description": "A hardcover novel with a blue dust jacket, containing captivating stories, was left behind on public transportation bus. Some pages are dog-eared. The book was lost on November 17, 2023. Here is an image of the lost book: [Lost Book](https://example.com/lost_book_image.jpg)",
+  "location": "Public transportation bus",
+  "date": "2023-11-17",
+  "feature": "Dog-eared pages",
+  "image_url": "https://example.com/lost_book_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0c9"
+  },
+  "name": "Misplaced Hat",
+  "description": "A brown fedora with a black band, providing a touch of classic style, was misplaced in the park picnic area. The brim shows slight wear. The incident occurred on November 14, 2023. Here is an image of the misplaced hat: [Misplaced Hat](https://example.com/misplaced_hat_image.jpg)",
+  "location": "Park picnic area",
+  "date": "2023-11-14",
+  "feature": "Slight wear on the brim",
+  "image_url": "https://example.com/misplaced_hat_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0ca"
+  },
+  "name": "Forgotten Sunglasses",
+  "description": "Round-frame sunglasses with a tortoiseshell pattern were forgotten at an outdoor concert venue. The left temple is missing. The incident occurred on November 16, 2023. Here is an image of the forgotten sunglasses: [Forgotten Sunglasses](https://example.com/forgotten_sunglasses_image.jpg)",
+  "location": "Outdoor concert venue",
+  "date": "2023-11-16",
+  "feature": "Missing left temple",
+  "image_url": "https://example.com/forgotten_sunglasses_image.jpg"
+},
+{
+  "_id": {
+    "$oid": "655ac160e582f7f934d7e0cb"
+  },
+  "name": "Lost Headphones",
+  "description": "Over-ear headphones with a red cable were left behind on a subway platform. The headphones have a foldable design and were lost on November 11, 2023. Here is an image of the lost headphones: [Lost Headphones](https://example.com/lost_headphones_image.jpg)",
+  "location": "Subway platform",
+  "date": "2023-11-11",
+  "feature": "Foldable design",
+  "image_url": "https://example.com/lost_headphones_image.jpg"
+}]
